@@ -1,4 +1,4 @@
-# Hi there, I'm Altamas Kamil Khan 👋
+# Hi there, I'm Altamas Khan 👋
 
 ## 🚀 AI-Driven Full Stack Developer & Digital Marketer
 
@@ -62,6 +62,6 @@ My approach to AI-assisted development is **architectural and iterative**. I don
 
 I am open to collaborations on AI-driven web projects, digital marketing campaigns, and creative editing roles.
 
-* **Portfolio:** [justtheguyak.tiiny.cc](https://justtheguyak.tiiny.site)
+* **Portfolio:** [justtheguyak](https://justtheguyak.tiiny.site)
 * **LinkedIn:** [Altamas Kamil Khan](https://www.linkedin.com/in/altamaskkhan)
 * **Location:** Pune, Maharashtra, India

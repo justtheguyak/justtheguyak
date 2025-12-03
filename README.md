@@ -64,5 +64,4 @@ I am open to collaborations on AI-driven web projects, digital marketing campaig
 
 * **Portfolio:** [justtheguyak.tiiny.cc](https://justtheguyak.tiiny.cc)
 * **LinkedIn:** [Altamas Kamil Khan](https://www.linkedin.com/in/altamaskkhan)
-* **Email:** khanaltamas786clg@gmail.com
 * **Location:** Pune, Maharashtra, India

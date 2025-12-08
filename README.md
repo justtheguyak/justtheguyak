@@ -13,39 +13,51 @@
 
 ### 📱 Mobile Applications (Android/Kotlin)
 
-#### 🧮 The Calculator (Smart & Self-Aware)
-*A native Android app built with Kotlin & XML.*
-* **Killer Feature:** **Custom Auto-Update System.** Checks GitHub for updates and installs them via `Android FileProvider` (Bypassing Play Store).
-* **Tech:** Kotlin, SharedPreferences (Persistent History), GitHub Releases API.
+| Project | Tech Stack | Key Features & Architecture |
+| :--- | :--- | :--- |
+| **🧮 The Calculator**<br>*(Smart & Self-Aware)* | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) ![XML](https://img.shields.io/badge/-XML-orange) ![GitHub API](https://img.shields.io/badge/-GitHub_API-181717?logo=github&logoColor=white) | • **Custom Auto-Update System:** Bypasses Play Store dependency by checking GitHub Releases API.<br>• **Persistent History:** Uses `SharedPreferences` to retain calculation state.<br>• **Coroutines:** Handles background update downloads seamlessly. |
+| **🏭 Millmate**<br>*(Industrial Management)* | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | • **Operational Efficiency:** Streamlines industrial workflows for on-the-go managers.<br>• **Resource Allocation:** Real-time tracking of inventory and machine usage.<br>• **Mobile First:** Optimized for factory floor usage. |
 
-#### 🏭 Millmate
-*Specialized Industrial Management.*
-* **Focus:** On-the-go inventory management and resource allocation for industrial workflows.
+### 🌐 Web Systems (Business Logic & ERP)
 
-### 🌐 Web Systems (Business Logic)
+| Project | Tech Stack | Key Features & Architecture |
+| :--- | :--- | :--- |
+| **☕ BaristaPro**<br>*(Cafe Resource Planning)* | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | • **CRP System:** Combines Inventory Management with Human Resources.<br>• **Smart Alerts:** Automated low-stock notifications for critical ingredients.<br>• **HR Portal:** Employee Check-in/out and Emergency Leave management. |
+| **💰 XpensoSmart**<br>*(Financial Intelligence)* | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) | • **Business Finance:** Professional-grade expense logging and visualization.<br>• **Categorization:** Intelligent sorting of expenses for small business clarity.<br>• **UX:** Simplified interface avoiding enterprise software clutter. |
+| **🏏 Cricket Manager**<br>*(Sports Admin)* | ![DBMS](https://img.shields.io/badge/-DBMS-336791) ![SQL](https://img.shields.io/badge/-SQL-4479A1) | • **Complex Relations:** Handles many-to-many relationships between Teams, Players, and Matches.<br>• **Live Data:** Structure supports real-time scoring and tournament scheduling. |
 
-#### ☕ BaristaPro
-*Complete Cafe Resource Planning (CRP).*
-* **Features:** Inventory tracking with low-stock alerts & Employee HR Module (Check-in/Check-out/Emergency Leave).
+### 🎨 Creative & Static Web Solutions
 
-#### 💰 XpensoSmart
-*Professional Financial Tracking.*
-* **Features:** Intuitive expense logging, categorization, and visualization for small businesses.
-
-#### 🏏 Cricket Management System
-* **Features:** Database-driven tournament management (Teams, Players, Scores) using complex SQL mapping.
-
-### 🎨 Creative & Static Web
-
-#### 🐉 Dragon & Himalaya Kitchen
-*Visual Engineering & Serverless E-Commerce.*
-* **Tech:** Custom **HTML5 Canvas** Dragon Animation + WhatsApp API ordering system with `localStorage` cart.
-
-#### 🛋️ Home Decor & Repair Hub
-*High-Performance Business Site.*
-* **Tech:** Optimized for **Cloudflare Pages**. Features pre-filled "Direct-to-WhatsApp" lead generation links.
+| Project | Tech Stack | Key Features & Architecture |
+| :--- | :--- | :--- |
+| **🐉 Dragon Kitchen**<br>*(Visual Engineering)* | ![HTML5](https://img.shields.io/badge/-Canvas_API-E34F26?logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/-LocalStorage-F7DF1E?logo=javascript&logoColor=black) | • **Serverless E-Commerce:** Custom cart logic integrated with WhatsApp API.<br>• **HTML5 Canvas:** Custom-coded Dragon animation loader.<br>• **Zero Cost:** Full ordering system without backend hosting fees. |
+| **🛋️ Home Decor Hub**<br>*(High-Performance Site)* | ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white) ![WhatsApp](https://img.shields.io/badge/-WhatsApp_API-25D366?logo=whatsapp&logoColor=white) | • **Lead Generation:** "Direct-to-Inquiry" product links pre-filled with data.<br>• **Infrastructure:** Engineered specifically for **Cloudflare Pages**.<br>• **Optimization:** 100/100 Lighthouse performance score architecture. |
 
 ---
+
+# 📢 Digital Marketing & Strategy
+*I don't just build products; I build the funnels that sell them.*
+
+| Skill | Details |
+| :--- | :--- |
+| **Paid Advertising** | Expert in **Facebook, Instagram, Google, and YouTube Ads**. Specialized in targeting and conversion optimization. |
+| **Creative Strategy** | "One-Man Agency" approach—combining **Professional Photo Editing** & **Video Editing** to create high-performing ad creatives. |
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=justtheguyak&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=justtheguyak&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=justtheguyak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=justtheguyak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=justtheguyak&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📢 Digital Marketing & Strategy
 *I don't just build products; I build the funnels that sell them.*

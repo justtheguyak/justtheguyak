@@ -1,67 +1,88 @@
-# Hi there, I'm Altamas Khan 👋
+# Altamas Kamil Khan ✨ | AI-Driven Developer & Digital Strategist
 
-## 🚀 AI-Driven Full Stack Developer & Digital Marketer
+## 🎓 Executive Summary
 
-I am a T.Y. B.B.A (CA) student and a professional developer who leverages Artificial Intelligence to build robust, efficient, and scalable web solutions. My workflow combines deep technical understanding with advanced AI prompting to bridge the gap between concept and deployment rapidly.
-
----
-
-## 🛠️ How I Use AI Effectively
-*A breakdown of my personal development workflow.*
-
-My approach to AI-assisted development is **architectural and iterative**. I don't just ask for code; I drive the development process:
-
-1.  **Context-First Engineering:** I provide AI with complete file structures, database schemas (SQL `CREATE` statements), and specific hosting constraints (e.g., Cloudflare Pages, Hostinger) to ensure the output is production-ready, not just a snippet.
-2.  **Full-Code Integrity:** I enforce a "Full Code" protocol, ensuring that every update includes the complete file context to prevent fragmentation and dependency errors.
-3.  **Cross-Platform Integration:** I bridge the gap between static front-ends (HTML/CSS/JS) and dynamic functionality (WhatsApp APIs, Open Source APIs) to create serverless-feeling experiences on static hosting.
-4.  **Visual & Functional Precision:** I combine my background in **Photo/Video Editing** with code, ensuring that assets (like custom dragon animations or product galleries) are integrated seamlessly into the code logic.
+I am a highly motivated T.Y. B.B.A (CA) student specializing in **AI-Accelerated Software Development** and **Digital Marketing Strategy**. I combine professional-level AI prompt engineering with practical expertise in both web and native mobile application architecture. My focus is on building robust, deployable systems (from static sites on Cloudflare to self-updating Android apps) that directly address real-world business needs.
 
 ---
 
-## 💻 Tech Stack & Skills
+## 💻 Technical Proficiencies & Language Distribution
 
-| Domain | Skills |
+My project history demonstrates a balanced proficiency across both web and native mobile stacks. The following table represents the approximate distribution of technologies utilized across my portfolio:
+
+| Language/Technology | Focus Area | Usage Distribution |
+| :--- | :--- | :--- |
+| **JavaScript / HTML / CSS** | Web Front-end & UI/UX Design | **40%** |
+| **Kotlin / Android XML** | Native Mobile Application Development | **35%** |
+| **PHP / Python / DBMS** | Server-Side Logic, Data Management, & API Handling | **20%** |
+| **AI Workflow / Infrastructure** | Advanced Prompt Engineering & Tooling | **5%** |
+
+### Core Skills Stack
+| Domain | Skills & Tools |
 | :--- | :--- |
-| **Web Development** | PHP, Python, DBMS, HTML5, CSS3, JavaScript (Canvas API), LocalStorage Logic |
-| **AI Workflow** | Advanced Prompt Engineering, Context Management, Deepseek & Gemini Integration |
-| **Creative** | Photo Editing (Professional), Video Editing (Intermediate), Graphic Design |
-| **Marketing** | Facebook Ads, Instagram Ads, Google Ads, YouTube Ads |
-| **Hosting/Ops** | Cloudflare Pages, Hostinger, Static Site Deployment |
+| **Web Development** | PHP, Python, DBMS, HTML5, CSS3, JavaScript (Canvas API, LocalStorage Logic) |
+| **Mobile Development** | Kotlin, Android Studio (XML Layouts, SharedPreferences, FileProvider) |
+| **Creative** | Professional Photo Editing, Intermediate Video Editing, Graphic Design (Logo/Business Cards) |
+| **Marketing** | Digital Marketing Strategy, Facebook Ads, Instagram Ads, Google Ads, YouTube Ads |
+| **Deployment** | Cloudflare Pages, Hostinger, Static Site Deployment, Git/GitHub |
 
 ---
 
-## 📂 Project Showcase
+## 🛠️ AI-Accelerated Development Workflow
 
-### 🐉 Dragon & Himalaya Kitchen
-*A visually rich restaurant website with custom animations.*
-* **Tech:** HTML, CSS, JavaScript, HTML5 Canvas.
+My professional approach to AI collaboration focuses on **Architectural & Iterative Control** to ensure production-quality output:
+
+1.  **Context-First Engineering:** I initiate development by providing comprehensive input, including full file structures, SQL `CREATE` statements, and specific deployment targets (e.g., Cloudflare Pages), ensuring the AI output is deployable and cohesive.
+2.  **Full-Code Integrity Protocol:** I enforce a strict rule requiring full, updated code files for every modification, which prevents code fragmentation, manages state, and streamlines the version control process.
+3.  **Cross-Stack Integration:** I design systems to leverage dynamic functionality (like WhatsApp APIs and Open Source APIs) within static/serverless hosting environments, maximizing speed and minimizing operational cost.
+4.  **Visual Precision & Asset Management:** My background in creative editing is utilized to integrate custom visual assets (e.g., custom Canvas animations) and ensure superior UI/UX fidelity in all coded solutions.
+
+---
+
+## 📂 Featured Project Portfolio
+
+### **Native Mobile Application**
+
+#### 🧮 The Calculator
+A highly advanced Android application developed in **Kotlin** and **XML**.
 * **Key Features:**
-    * Custom Dragon animation loader using Canvas.
-    * WhatsApp-based ordering system with a custom cart using `localStorage`.
-    * Dynamic filtering for Menu items (Veg/Non-Veg).
-    * Responsive Red/Gold/Dark theme architecture.
+    * Standard and complex arithmetic functions.
+    * **Persistent History:** Calculation history saved using `SharedPreferences`.
+    * **Custom Auto-Update System:** Implemented a self-updating mechanism powered by GitHub releases, using **Kotlin Coroutines** and **Android FileProvider** to bypass standard app store dependencies.
 
-### 🛋️ Home Decor & Repair Business Hub
-*A professional multi-page business site for Mattresses, Sofas, and Repairs.*
+### **Web Applications (Fully Developed - Hosting Soon)**
+
+#### ☕ BaristaPro
+A comprehensive web-based management system for cafe operations.
+* **Focus:** Cafe Inventory Management, Employee Scheduling, Check-in/Check-out, and Emergency Leave Management.
+* **Architecture:** Database-driven backend (PHP/Python/DBMS).
+
+#### 💰 XpensoSmart
+A professional-grade, dedicated expense tracking web application.
+* **Focus:** Intuitive financial input, categorization, and reporting tools for personal or small business use.
+* **Architecture:** Built for efficiency and data integrity.
+
+### **Deployed & Static Solutions**
+
+#### 🐉 Dragon & Himalaya Kitchen
+A visually rich, responsive restaurant website.
+* **Tech:** HTML, CSS, JavaScript, **HTML5 Canvas**.
+* **Key Features:** Custom Dragon animation loader and a fully integrated WhatsApp ordering system with `localStorage` cart persistence.
+
+#### 🛋️ Home Decor & Repair Business Hub
+A professional, multi-page e-commerce/services site designed for zero-backend hosting.
 * **Tech:** Static HTML/CSS, WhatsApp Integration.
-* **Architecture:** Designed specifically for **Cloudflare Pages** hosting with zero backend cost.
-* **Key Features:**
-    * Direct-to-WhatsApp inquiry links pre-filled with product data.
-    * Service-specific landing pages (Sofa Repair, Cushion Refill).
-    * Mobile-first responsive grid layout.
+* **Key Features:** Direct inquiry links pre-filled with product data and optimized for **Cloudflare Pages** deployment.
 
-### 📱 Upcoming & Ongoing Projects
-* **Instagram Video/Reel Downloader:** Web app utilizing open-source APIs.
-* **Cricket Management System:** Database-driven sports management.
-* **College Resources Management:** Academic resource sharing platform.
-* **Inventory & Attendance Systems:** Solutions for Shop/Cafe inventory and Employee tracking.
+### **Management & Upcoming Projects**
+* **Project Suites:** Cricket Management System, College Resources Management, Inventory & Attendance Systems.
+* **Future Dev:** Instagram Video/Reel Downloader utilizing open-source APIs.
 
 ---
 
 ## 📈 Connect With Me
 
-I am open to collaborations on AI-driven web projects, digital marketing campaigns, and creative editing roles.
-
 * **Portfolio:** [justtheguyak](https://justtheguyak.tiiny.site)
 * **LinkedIn:** [Altamas Kamil Khan](https://www.linkedin.com/in/altamaskkhan)
 * **Location:** Pune, Maharashtra, India
+* **Email:** khanaltamas786clg@gmail.com

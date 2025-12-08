@@ -58,27 +58,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=justtheguyak&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# 📢 Digital Marketing & Strategy
-*I don't just build products; I build the funnels that sell them.*
-
-| Skill | Details |
-| :--- | :--- |
-| **Paid Advertising** | Expert in **Facebook, Instagram, Google, and YouTube Ads**. Specialized in targeting and conversion optimization. |
-| **Creative Strategy** | "One-Man Agency" approach—combining **Professional Photo Editing** & **Video Editing** to create high-performing ad creatives. |
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=justtheguyak&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=justtheguyak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=justtheguyak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=justtheguyak&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=justtheguyak&icon=0&color=0)](https://visitcount.itsvg.in)

@@ -50,9 +50,7 @@ Currently open to full-stack roles where I can take ownership of real products e
 ## Marketing & Strategy
 
 Beyond development, I run paid acquisition campaigns across Facebook, Instagram, Google, and YouTube — handling creative production (photo/video editing) end-to-end as a one-person growth function.
-
 ---
-
 <br>
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" />

@@ -53,13 +53,6 @@ Beyond development, I run paid acquisition campaigns across Facebook, Instagram,
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=justtheguyak&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtheguyak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="38%" />
-</div>
-
 <br>
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" />
